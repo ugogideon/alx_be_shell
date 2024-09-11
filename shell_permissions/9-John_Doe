@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x set_permissions.sh
+./set_permissions.sh
